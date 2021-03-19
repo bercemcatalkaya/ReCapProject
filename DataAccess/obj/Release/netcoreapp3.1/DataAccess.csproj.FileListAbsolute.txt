@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ReCapProject\DataAccess\bin\Release\netcoreapp3.1\DataAccess.deps.json
+C:\Users\User\source\repos\ReCapProject\DataAccess\bin\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\User\source\repos\ReCapProject\DataAccess\bin\Release\netcoreapp3.1\DataAccess.pdb
+C:\Users\User\source\repos\ReCapProject\DataAccess\bin\Release\netcoreapp3.1\Entities.dll
+C:\Users\User\source\repos\ReCapProject\DataAccess\bin\Release\netcoreapp3.1\Entities.pdb
+C:\Users\User\source\repos\ReCapProject\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ReCapProject\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ReCapProject\DataAccess\obj\Release\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\ReCapProject\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ReCapProject\DataAccess\obj\Release\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\User\source\repos\ReCapProject\DataAccess\obj\Release\netcoreapp3.1\DataAccess.dll
+C:\Users\User\source\repos\ReCapProject\DataAccess\obj\Release\netcoreapp3.1\DataAccess.pdb
