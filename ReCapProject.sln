@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{84
 		ReCapDatabase.sql = ReCapDatabase.sql
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{8E98C062-73C9-4289-B56C-3423CAB3C695}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,10 @@ Global
 		{02EF78A5-BBA1-4E8A-A074-343418BFBC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02EF78A5-BBA1-4E8A-A074-343418BFBC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02EF78A5-BBA1-4E8A-A074-343418BFBC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E98C062-73C9-4289-B56C-3423CAB3C695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E98C062-73C9-4289-B56C-3423CAB3C695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E98C062-73C9-4289-B56C-3423CAB3C695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E98C062-73C9-4289-B56C-3423CAB3C695}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

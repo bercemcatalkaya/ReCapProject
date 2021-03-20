@@ -66,3 +66,5 @@ C:\Users\User\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtim
 C:\Users\User\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\User\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\User\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\User\source\repos\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb

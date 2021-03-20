@@ -42,6 +42,17 @@ namespace ConsoleUI
                 DailyPrice = 306000,
                 Description = "Civic Sedan"
             });
+
+            /* Car Details */
+
+            CarManager carManagerToListed = new CarManager(new EfCarDal());
+            foreach (var carDetails in carManagerToListed.GetCarDetails())
+            {
+                Console.WriteLine("Car Name : " + carDetails.CarName +
+                                  " - Brand Name : " + carDetails.BrandName +
+                                  " - Car's Color Name : " + carDetails.ColorName+
+                                  " - Car Daily Price : " + carDetails.DailyPrice);
+            }
         } 
     }
 }
