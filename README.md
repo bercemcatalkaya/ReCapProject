@@ -1,2 +1,2 @@
 # ReCapProject
-Car Rental System is currently developing using .NET Core
+Car Rental System is currently developing using .NET Cor
