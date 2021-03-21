@@ -12,21 +12,21 @@ namespace ConsoleUI
         {
             /* List All Cars with EF */
             CarManager carManager = new CarManager(new EfCarDal());
-            foreach (var cars in carManager.GetAll())
+            foreach (var cars in carManager.GetAll().Data)
             {
                 Console.WriteLine(cars.Description);
             }
 
             /* List All Car's Brands with EF */
             BrandManager brandManager = new BrandManager(new EfBrandDal());
-            foreach (var brands in brandManager.GetAll())
+            foreach (var brands in brandManager.GetAll().Data)
             {
                 Console.WriteLine(brands.Name);
             }
 
             /* List All Car's Colors with EF*/
             ColorManager colorManager = new ColorManager(new EfColorDal());
-            foreach (var colors in colorManager.GetAll())
+            foreach (var colors in colorManager.GetAll().Data)
             {
                 Console.WriteLine(colors.Name);
             }
@@ -46,7 +46,7 @@ namespace ConsoleUI
             /* Car Details */
 
             CarManager carManagerToListed = new CarManager(new EfCarDal());
-            foreach (var carDetails in carManagerToListed.GetCarDetails())
+            foreach (var carDetails in carManagerToListed.GetCarDetails().Data)
             {
                 Console.WriteLine("Car Name : " + carDetails.CarName +
                                   " - Brand Name : " + carDetails.BrandName +
